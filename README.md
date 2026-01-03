@@ -4,8 +4,8 @@ To Address these challenges, and AI-powered Intelligent system is needed to enha
 
 Data Link:
 Contains Body measurement-height, weight, body type, and recommended clothing sizes
-Dataset: Kaggle – Apparel Size Dataset
-DatasetLink:Input: User body measurements or image (optional)
+Dataset: Kaggle – Apparel Size Dataset + Body Measurements
+DatasetLink:
 
 Design:
 Model: Size recommendation logic (rule-based or ML)
